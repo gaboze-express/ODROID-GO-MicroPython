@@ -1,3 +1,5 @@
+[To be edited for the gaboze express compatibility]
+
 # ODROID-GO
 <img align="right" width="300" height="291" src="https://www.hardkernel.com/main/_Files/prdt/2018/201806/201806120632198417.jpg">
 <br />
